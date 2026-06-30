@@ -1,2 +1,2 @@
 console.log("自分");
-console.log("新しい機能");
+console.log("新しい機能2");
